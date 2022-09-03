@@ -64,7 +64,7 @@ li {
     padding-left: 0px;
 }
 
-#stats-h {
+.stats-h {
     color: hsla(0, 0%, 100%);
     font-weight: 700;
     font-size: 1.6rem;
